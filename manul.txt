@@ -1,0 +1,17 @@
+#! /bin/bash
+
+#addition
+a=$(( 12+21 ))
+
+
+#substraction
+
+
+
+#multiplication
+
+
+
+
+#division
+
